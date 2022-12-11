@@ -1,6 +1,6 @@
 # Hi there 👋, My name is xbot
 
-Long-time PHP developer and Vim user. Living in Beijing with my GF and two cats.
+Long-time PHP developer and Vim user. Living in Beijing with my cats.
 
 * Fan of best practices and Open Source.
 * ❤ Vim/NeoVim & Arch Linux.
